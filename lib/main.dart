@@ -40,7 +40,7 @@ class _MySplashScreenState extends State<MySplashScreen> {
         mainAxisAlignment: MainAxisAlignment.center,
         crossAxisAlignment: CrossAxisAlignment.center,
         children: <Widget>[
-          Image.asset('images/icon.png', height: 220.0, width: 220,),
+          Image.asset('images/bmi.png', height: 220.0, width: 220,),
 
           SizedBox( height: 40.0),
 
